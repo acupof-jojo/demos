@@ -1,7 +1,11 @@
-Goal: Perform hierarchical clustering on publicly available Pokemon stats. Each Pokemon is defined by a row in the data set. 
+Project Overview: Perform hierarchical clustering on publicly available Pokemon stats. Each Pokemon is defined by a row in the data set. 
 Because there are various ways to characterize how strong a Pokemon is, we summarize the stats into a shorter feature vector. 
 For this project, I represented a Pokemon’s quality by 6 numbers:
 HP, Attack, Defense, Sp. Atk, Sp. Def, Speed
+
+Result: Clustering is displayed using a dendrogram
+
+Language: Python
 
 Function Descriptions:
 
