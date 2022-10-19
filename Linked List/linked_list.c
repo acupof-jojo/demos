@@ -434,7 +434,7 @@ int main() {
     }
 
 
-    // write a better test for Pop_Back
+    //test for Pop_Back
     printf("\nTesting Pop_Back\n");
     {
         int x; 
@@ -460,7 +460,7 @@ int main() {
             printf("List was empty\n");
     }
 
-    // write a beter test for Count_If
+    //test for Count_If
     printf("\nTesting Count_If\n");
     Push_Front(&list, 5);
     Push_Front(&list, 5);
